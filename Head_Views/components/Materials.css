@@ -1,0 +1,93 @@
+
+.Materials {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+    height: 70px;
+    background-color: #1E1F4A;
+}
+
+.Materials_Text {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
+
+
+.Material_List {
+    width: 100%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-bottom: 40px;
+}
+
+.MaterialCourseID {
+    display: flex;
+    flex-direction: row;
+    padding-left: 80px;
+}
+
+.MaterialCourseID_Text {
+    color: black;
+    font-weight: bold;
+}
+
+.MaterialCourseName {
+    display: flex;
+    flex-direction: row;
+    padding-left: 80px;
+}
+
+.MaterialClassName_Text {
+    color: black;
+    font-weight: bold;
+}
+
+.courseID {
+    padding-left: 10px;
+}
+
+.courseName {
+    padding-left: 10px;
+}  
+
+.MaterialList {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+}
+
+.material_table {
+    width: 90%;
+    border: 1px solid black;
+}
+
+.material_table_th {
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 1px solid black;
+}
+
+.material_table_td {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.material_table_td {
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+}
+
+.material_table_th {
+    background-color: #1E1F4A;
+    color: white;
+}
+
+.material_table_tr_not_avail {
+    text-align: center;
+}
